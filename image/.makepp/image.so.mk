@@ -1,0 +1,15 @@
+SIG_METHOD_IMPLICIT=1
+INCLUDE_SFXS=lib.la.so.sa.a.sl
+BUILD_SIGNATURE=1653949712,16672
+IMPLICIT_TARGETS=image.so
+SORTED_DEPS=/usr/bin/gccimage.o
+IMPLICIT_DEPS=image.o
+CWD=.
+DEP_SIGS=1646848644,11582881653949712,3000
+INCLUDE_PATHS=lib/usr/local/lib/usr/lib/libsys/usr/local/include/usr/includeuser/usr/local/include/usr/include
+ARCH=x86_64-linux-gnu-thread-multi
+META_DEPS=/usr/bin/gcc
+SIG_METHOD_NAME=C
+COMMAND=gcc -shared image.o -o image.so
+SIGNATURE=1653949712,16672
+END=

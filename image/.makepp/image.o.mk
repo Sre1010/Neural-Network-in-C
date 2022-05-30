@@ -1,0 +1,15 @@
+IMPLICIT_TARGETS=image.o
+SORTED_DEPS=/usr/bin/gccimage.cimage.h/usr/include/stdio.h/usr/include/stdlib.h/usr/include/string.h
+BUILD_SIGNATURE=1653949712,3000
+IMPLICIT_DEPS=
+SIG_METHOD_IMPLICIT=1
+INCLUDE_SFXS=
+COMMAND=gcc -O2 -fpic -c -Wall image.c -o image.o
+META_DEPS=/usr/bin/gccimage.csysstdio.hstdlib.hstring.huser./image.h
+ARCH=x86_64-linux-gnu-thread-multi
+SIG_METHOD_NAME=C
+SIGNATURE=1653949712,3000
+CWD=.
+DEP_SIGS=1646848644,1158288vbqdx/2sNJXNc2dEYjkHEwB7l9fzd3hXcw3SnW8zxSGQ1649294681,299501649294681,358351649294681,17660
+INCLUDE_PATHS=sys/usr/local/include/usr/includeuser/usr/local/include/usr/include
+END=
