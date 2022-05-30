@@ -1,6 +1,0 @@
-SIGNATURE=1653936587,975
-C_MD5_SUM=vbqdx/2sNJXNc2dEYjkHEw
-LIBS=
-SYSTEM_INCLUDES=stdio.h stdlib.h string.h
-INCLUDES=image.h
-END=
